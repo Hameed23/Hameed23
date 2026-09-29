@@ -1,7 +1,7 @@
 
-# Hi, I'm Hameed
+# Asalam-ul-Alaikum,Hameed here!
 
-Software Engineering student focused on building strong programming fundamentals and practical projects.
+Keep calm and be a programmer.
 
 ## About Me
 
